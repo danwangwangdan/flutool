@@ -2,9 +2,7 @@ server:
   # 端口号
   port: 5081
   context-path: /histool
-#jasypt:
-#  encryptor:
-#    password: wlzx201809
+
 spring:
   mvc:
     static-path-pattern: /**
